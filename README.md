@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://github.com/SakanaAI/AI-Scientist_v2/blob/main/docs/logo_v1.jpg">
-    <img src="docs/logo_v1.png" width="215" alt="AI Scientist v2 Logo" />
-  </a>
   <h1>
     <b>The AI Scientist-v2: Workshop-Level Automated</b><br>
     <b>Scientific Discovery via Agentic Tree Search</b>
